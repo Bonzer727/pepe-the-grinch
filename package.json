@@ -9,9 +9,9 @@
 },
 "dependencies": {
 "@solana/web3.js": "^1.83.0",
-"@solana/wallet-adapter-base": "^0.18.1",
-"@solana/wallet-adapter-react": "^0.21.0",
-"@solana/wallet-adapter-wallets": "^0.21.0",
+"@solana/wallet-adapter-base": "^0.17.7",
+"@solana/wallet-adapter-react": "^0.20.3",
+"@solana/wallet-adapter-wallets": "^0.20.3",
 "@solana/wallet-adapter-react-ui": "^0.9.3",
 "next": "14.2.3",
 "react": "18.2.0",
